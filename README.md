@@ -13,11 +13,11 @@ This project provides a custom captive portal for pfSense, featuring a user regi
 
 ### Login Screen
 
-![Login Screen](login.png)
+![Login Screen](images/login.png)
 
 ### Registration Screen
 
-![Registration Screen](registration.png)
+![Registration Screen](images/register.png)
 
 ## Installation
 
