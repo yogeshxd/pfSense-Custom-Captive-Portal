@@ -9,6 +9,16 @@ This project provides a custom captive portal for pfSense, featuring a user regi
 - **pfSense REST API Integration:** Utilizes the pfSense REST API by [jaredhendrickson13](https://github.com/jaredhendrickson13/pfsense-api) for user management.
 - **Simple and Intuitive UI:** Clean and responsive design with an easy-to-use interface.
 
+## Screenshots
+
+### Login Screen
+
+![Login Screen](login.png)
+
+### Registration Screen
+
+![Registration Screen](registration.png)
+
 ## Prerequisites
 
 - pfSense version that supports [jaredhendrickson13's REST API](https://github.com/jaredhendrickson13/pfsense-api).
