@@ -94,7 +94,8 @@
             <div>
 
 
-<?php if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["register"])) {
+<?php 
+    if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["register"])) {
     $user = $_POST["username"];
     $pass = $_POST["password"];
     $email = $_POST["email"];
@@ -144,7 +145,7 @@
             - If not then try to pick a unique username!<br>
             If you still face any issue then try to contact your network admin.<br></p>
             </div>
-EOL;
+            EOL;
         }
 
         curl_close($ch);
