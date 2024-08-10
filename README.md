@@ -19,11 +19,6 @@ This project provides a custom captive portal for pfSense, featuring a user regi
 
 ![Registration Screen](registration.png)
 
-## Prerequisites
-
-- pfSense version that supports [jaredhendrickson13's REST API](https://github.com/jaredhendrickson13/pfsense-api).
-- PHP support on your pfSense installation (if not already installed).
-
 ## Installation
 
 1. **Download and Upload Files:**
